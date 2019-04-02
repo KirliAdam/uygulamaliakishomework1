@@ -1,3 +1,3 @@
-# uygulamaliakishomework1
+# Ödev
 
 Ödev dosyası main.pdf
